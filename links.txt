@@ -1,5 +1,7 @@
 ingress-simple ==  https://github.com/elevy99927/k8s/blob/main/ingress/simple-ingress.yaml
 
+canary deployment (ingress.yml) == https://raw.githubusercontent.com/yanivomc/seminars/K8S/K8S/advanced/ingress/nginx/canary/canary-release.yaml
+
 nginx Basic Authentication == https://kubernetes.github.io/ingress-nginx/examples/auth/basic/
 
 nip.io exemple(host based) == https://github.com/elevy99927/k8s/blob/main/ingress/lab14-solution.yaml
