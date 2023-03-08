@@ -7,3 +7,7 @@ nginx Basic Authentication == https://kubernetes.github.io/ingress-nginx/example
 nip.io exemple(host based) == https://github.com/elevy99927/k8s/blob/main/ingress/lab14-solution.yaml
 
 route based == https://raw.githubusercontent.com/elevy99927/k8s/main/ingress/ingress-basic-auth.yaml
+
+Volume populators and data sources == https://kubernetes.io/blog/2021/08/30/volume-populators-redesigned/
+
+debug network == debug: praqma/network-multitool
